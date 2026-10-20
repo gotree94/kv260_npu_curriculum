@@ -1,4 +1,4 @@
-# Kria KV260 기반 로직 설계 → Embedded Linux → NPU 설계 (4주)
+# Kria KV260 기반 로직 설계 → Embedded Linux → NPU 설계
 
 ## 기준 툴 버전: Vivado / Vitis 2022.2
 
