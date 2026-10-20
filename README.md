@@ -1,4 +1,4 @@
-# Kria KV260 기반 로직 설계 → Embedded Linux → NPU 설계
+# Kria KV260 기반 로직 설계 → Embedded Linux → NPU 설계 (4주)
 
 ## 기준 툴 버전: Vivado / Vitis 2022.2
 
@@ -8,7 +8,7 @@
 
 | 항목 | 내용 |
 |---|---|
-| 교육 기간 | 총 수업 140시간 |
+| 교육 기간 | 4주 (주 5일, 수업 1일 7시간 / 체류 8시간, 총 수업 140시간) |
 | 사용 보드 | AMD Kria KV260 Vision AI Starter Kit (Zynq UltraScale+ MPSoC, K26 SOM = XCZU5EV) |
 | 개발 환경 | **Vivado ML Edition 2022.2 / Vitis 2022.2 / Vitis AI 3.0** |
 | 라이선스 | **Vivado ML Standard — 라이선스 파일 불필요** (Kria SOM 포함, 2022.2 기준) |

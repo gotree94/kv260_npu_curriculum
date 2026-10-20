@@ -1,0 +1,5 @@
+M=4
+K=4
+N=4
+seed=42
+layout=a_row_major,w_kx_n,c_row_major
